@@ -1,0 +1,5 @@
+/project/*
+/tb/*
+/rtl/data_mem.sv
+/rtl/lcd1602.sv
+/rtl/mpu_6000.sv
